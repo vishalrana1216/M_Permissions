@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_749103d2f006097a98dc01994428c0d021e18cda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_181589bcd906879da1733cc2369530ed1f8b9208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_4cd56dc755ba35b286bc9162a726367d0c8f2179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e7df40f310ef6743b6f953b812aae49d5c948eef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c7500f284d86b561cf11bfeb4e1fd525b8e0704a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_6f34b49d699a5733e9e6f81ee63c785550f8d81f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935cff8b7d2a42407abae99afb96fee8a3b3b799">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1bfdc4784ebf938f201b2299b91dac4a1b22630b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_046712d975c7ff009f524b19065b06b36f9baf49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_8af4252e079fbc4fa05cce923d7f61e8e84b1564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_16a046799769fff924f82535be27b11b03c1f97b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Practice\M Permissions\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bdd981160d8e1e4a2f75773772e5f9fe9c19a52">
+        <dex dex="D:\Studio Practice\M Permissions\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_20c34015e7bde26824432a1933c75ff691966c5e\classes.dex" />
+    </item>
+
+</items>

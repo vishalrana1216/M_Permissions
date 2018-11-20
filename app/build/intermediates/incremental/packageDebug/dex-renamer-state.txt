@@ -1,0 +1,7 @@
+#Thu Dec 07 12:43:29 IST 2017
+base.0=D\:\\Studio Practice\\M Permissions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_20c34015e7bde26824432a1933c75ff691966c5e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Studio Practice\\M Permissions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1bfdc4784ebf938f201b2299b91dac4a1b22630b\\classes.dex
+base.1=D\:\\Studio Practice\\M Permissions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1bfdc4784ebf938f201b2299b91dac4a1b22630b
+file.0=D\:\\Studio Practice\\M Permissions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_20c34015e7bde26824432a1933c75ff691966c5e\\classes.dex
