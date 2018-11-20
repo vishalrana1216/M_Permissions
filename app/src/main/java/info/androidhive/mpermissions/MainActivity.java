@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_PERMISSION_SETTING = 101;
     private boolean sentToSettings = false;
     private SharedPreferences permissionStatus;
-
+    String string;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
